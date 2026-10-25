@@ -1,2 +1,5 @@
-# daily-to-do-list
-Daily to do list
+# 10.25 to do
+
+1. 完成所有小文书
+2. 完成所有学校的 Common App 填写
+3. 完成简历填写
